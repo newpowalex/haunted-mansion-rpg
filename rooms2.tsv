@@ -1,0 +1,17 @@
+Room	Description	North	East	South	West	Jump	Crawl	Item Start	Monster
+Foyer	The enterance to the mansion. It seems like there are some items missing here...	Kitchen	Living Room		Den				
+Kitchen	The room where all the food is cooked, it smells like somone has used it recently...	Greenhouse		Foyer	Dining Room				Ghost
+Dining Room	A grand table in the center of a large room where friends and family would gather to eat together.	Kid's Bedroom	Kitchen	Den					
+Living Room	A relaxing-looking sofa and some comfy chairs decorate this room, it looks like the perfect place to take a nap.	Cigar Lounge			Foyer	Library	Wine Cellar		
+Den	This room looks like a good place to find some peace and quiet from the rest of the mansion.	Dining Room	Foyer		Downstairs Bathroom				Spider
+Downstairs Bathroom	This room stinks, somone definitely used it recently...		Den						
+Library	A wonderous collection of books, you could spend all year in here and not read all of them. Something definitely seems strange about that one book on the top shelf...					Living Room		Book	
+Greenhouse	A small outdoor room with lots of old, dead plants.			Kitchen				Necklace	
+Wine Cellar	The owner of this mansion had quite the stockpile of wine down here...						Living Room		
+Upstairs Bathroom	This room also stinks, but I don't think anyone has used it... ever...		Guest Bedroom	Kid's Bedroom					
+Kid's Bedroom	Two small beds sit at opposite ends of the room, one side blue, one side pink.	Upstairs Bathroom	Master Bedroom	Dining Room					
+Master Bedroom	The biggest bedroom you have ever seen with a custom mattress that could sleep ten.	Guest Bedroom	Cigar Lounge		Kid's Bedroom				
+Guest Bedroom	For how big the master bedroom is, it's understandable to see where that extra space came from. This room is nothing special.		Office	Master Bedroom	Upstairs Bathroom				
+Office	A decent sized office for one busy person, I wonder what that strange door on the ceiling is for...			Cigar Lounge	Guest Bedroom	Attic			
+Cigar Lounge	This room definitely hosted some good times...	Office		Living Room	Master Bedroom				Skeleton
+Attic	The top of the mansion and probaly the spookiest place to be...					Office		Doll	
